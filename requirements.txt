@@ -1,0 +1,9 @@
+ipykernel
+scipy
+numpy
+pandas
+matplotlib
+black
+scikit-image
+# installed with pip
+# openvcv-python 
